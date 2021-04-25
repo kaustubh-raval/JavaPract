@@ -1,0 +1,1 @@
+Example of connecting to the database using JDBC and few basic queries
